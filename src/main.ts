@@ -7,7 +7,8 @@ import "./style.css";
 // import "./Topics/06-function-destructuring";
 // import "./Topics/07-import-export";
 // import "./Topics/08-classes";
-import "./Topics/09-generics";
+// import "./Topics/09-generics";
+import "./Topics/10-decorators";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   Hola Mundo
