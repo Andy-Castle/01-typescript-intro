@@ -35,6 +35,8 @@ const { author: artist } = details;
 
 // const [p1, p2, trunks]: string[] = ["Goku", "Vegeta", "Trunks"];
 
+//Como desestructurar los arregloss
+
 const [, , trunks = "Not found"]: string[] = ["Goku", "Vegeta"];
 
 console.log("Personaje 3:", trunks);

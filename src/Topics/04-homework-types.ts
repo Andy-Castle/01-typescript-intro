@@ -5,6 +5,8 @@
 //   showAddress: () => string;
 // }
 
+//Una tarea de como crear correctamente las interfaces
+
 interface SuperHero {
   name: string;
   age: number;

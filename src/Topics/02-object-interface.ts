@@ -1,3 +1,5 @@
+//Como crear interfaces
+
 const skills: string[] = ["Bash", "Counter", "Healing"];
 skills;
 

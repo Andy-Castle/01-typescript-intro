@@ -1,3 +1,5 @@
+//Como funcionan las funciones con tipados
+
 function addNumbers(a: number, b: number): number {
   return a + b;
 }
@@ -23,6 +25,7 @@ function multiply(firstNumber: number, secondNUmber?: number, base: number = 2) 
 // console.log({ multiplyResult });
 
 //FUNCIONES CON OBJETOS COMO ARGUMENTOS
+//Aqui se vio como se usan las funciones dentro de los objetos como argumentos
 
 interface Character {
   name: string;
