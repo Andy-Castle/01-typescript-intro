@@ -8,7 +8,8 @@ import "./style.css";
 // import "./Topics/07-import-export";
 // import "./Topics/08-classes";
 // import "./Topics/09-generics";
-import "./Topics/10-decorators";
+// import "./Topics/10-decorators";
+import "./Topics/11-optional-chaining";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   Hola Mundo
